@@ -96,15 +96,12 @@ body{
 
 
 .carousel{
-    display: flex;
-    overflow: hidden;
+  height: 400px;
+  position: relative;
     width: 300px;
 }
 
-.carousel img{
-    width: 100%;
-    transition: transform 0.5s ease-in-out;
-}
+
 
 
 
