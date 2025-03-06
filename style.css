@@ -60,6 +60,17 @@ body{
         border-color: rgb(92, 27, 63);
 }
 
+.carousel{
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+}
+
+.carousel img{
+    width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
 
 
 
