@@ -59,6 +59,15 @@ body{
         border-style: solid;
         border-color: rgb(92, 27, 63);
 }
+.carrossel{
+    display: flex;
+    overflow: hidden;
+    width: 300px;
+}
+.carrossel img{
+    width: 100px;
+    transition: transform 0.5s ease-in-out;
+}
 
 
 
