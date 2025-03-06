@@ -1,5 +1,48 @@
+body{ 
+    margin: 0px;
+    padding: 0px;   
+    border: 20px; 
+    background-color: rgb(187, 69, 138);
+    color: rgb(0, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    #navbar{ 
+        margin: 0px;
+        padding: 5px;
+        background-color: rgb(245, 156, 215);
+        color:rgb(134, 13, 80);
+        text-align: center;
+    }
 
+    img{
+        width: 400px;
+        height: 300px;
+    }
+        
+    .foto{
 
+        display: flex;
+    } 
+
+    #camisa{
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(253, 151, 222);
+        display: flex;
+        text-align: center;
+    }
+
+    .camisas{
+        margin: 50px;
+        padding: 50px;
+        background-color: rgb(253, 151, 222);
+        border: 5px;
+        display: flex;
+        border-style: solid;
+        border-color: rgb(92, 27, 63); 
+    }
+    
 
 
 
