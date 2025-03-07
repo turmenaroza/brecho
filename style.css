@@ -4,7 +4,7 @@ body{
     border: 20px; 
     background-color: rgb(187, 69, 138);
     color: rgb(0, 0, 0);
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     }
     
     #navbar{ 
@@ -133,6 +133,7 @@ body{
     #logo{
         width: 120px;
         height: 120px;
+        padding-top: 40px;
     }
 
 
