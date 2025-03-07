@@ -44,6 +44,7 @@ body{
         border: 5px;
         border-style: solid;
         border-color: rgb(92, 27, 63);
+
     }    
 
     #acessorios{
@@ -96,49 +97,43 @@ body{
 
 
 
-    .slider label {
-        background-color: #000;
-        bottom: 10px;
-        cursor: pointer;
-        display: block;
-        height: 10px;
-        position: absolute;
-        width: 10px;
-        z-index: 10;
+.carousel{
+  height: 400px;
+  position: relative;
+    width: 300px;
+}
+.carousel img{
+    width: 100px;
+    transition: transform 0.5s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #titulo{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: black;
     }
-    
-    .slider li:nth-child(1) label {
-        left: 10px;
+
+    #logo{
+        width: 120px;
+        height: 120px;
     }
-    
-    .slider li:nth-child(2) label {
-        left: 40px;
-    }
-    
-    .slider li:nth-child(3) label {
-        left: 70px;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
