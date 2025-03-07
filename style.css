@@ -102,7 +102,10 @@ body{
   position: relative;
     width: 300px;
 }
-
+.carousel img{
+    width: 100px;
+    transition: transform 0.5s ease-in-out;
+}
 
 
 
