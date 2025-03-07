@@ -47,15 +47,19 @@ body{
 
     }    
 
-    #acessorios{
+    #s_acessorios{
         margin: 10px;
         padding: 5px;
         background-color: rgb(253, 151, 222);
         display: flex;
+        flex-direction: column;
         text-align: center;
         border: 5px;
         border-style: solid;
         border-color: rgb(92, 27, 63);
+    }
+    #acessorios{
+        display: flex;
     }
     .c{
         margin: 50px;
