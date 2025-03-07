@@ -30,7 +30,7 @@ body{
         margin: 50px;
         padding: 50px;
         background-color: rgb(253, 151, 222);
-        text-align: center;
+      
         border: 5px;
         border-style: solid;
         border-color: rgb(92, 27, 63); 
@@ -100,35 +100,13 @@ body{
     padding: 50px;
     background-color: rgb(253, 151, 222);
     border: 5px;
-    text-align: center;
+   
     border-style: solid;
     border-color: rgb(92, 27, 63);
     }
 
 
-    .slider label {
-        background-color: #000;
-        bottom: 10px;
-        cursor: pointer;
-        display: block;
-        height: 10px;
-        position: absolute;
-        width: 10px;
-        z-index: 10;
-    }
-    
-    .slider li:nth-child(1) label {
-        left: 10px;
-    }
-    
-    .slider li:nth-child(2) label {
-        left: 40px;
-    }
-    
-    .slider li:nth-child(3) label {
-        left: 70px;
-    }
-
+   
 
 
 
