@@ -84,7 +84,7 @@ body{
     transition: transform 0.5s ease-in-out;
     }
 
-    #s_calcas{
+    #calcas{
     margin: 10px;
     padding: 5px;
     background-color: rgb(253, 151, 222);
@@ -93,10 +93,6 @@ body{
     border: 5px;
     border-style: solid;
     border-color: rgb(92, 27, 63);
-    }
-
-    #calca{
-        display: flex;
     }
 
     .calca{
