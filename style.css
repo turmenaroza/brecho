@@ -55,26 +55,26 @@ body{
         border: 5px;
         border-style: solid;
         border-color: rgb(92, 27, 63);
-}
-.c{
+    }
+    .c{
         margin: 50px;
         padding: 50px;
         background-color: rgb(253, 151, 222);
         border: 5px;
         border-style: solid;
         border-color: rgb(92, 27, 63);
-}
-.carrossel{
+    }
+    .carrossel{
     display: flex;
     overflow: hidden;
     width: 300px;
-}
-.carrossel img{
+    }
+    .carrossel img{
     width: 100px;
     transition: transform 0.5s ease-in-out;
-}
+    }
 
-#calcas{
+    #calcas{
     margin: 10px;
     padding: 5px;
     background-color: rgb(253, 151, 222);
@@ -83,15 +83,16 @@ body{
     border: 5px;
     border-style: solid;
     border-color: rgb(92, 27, 63);
-}
-.calca{
+    }
+
+    .calca{
     margin: 50px;
     padding: 50px;
     background-color: rgb(253, 151, 222);
     border: 5px;
     border-style: solid;
     border-color: rgb(92, 27, 63);
-}
+    }
 
 
 
